@@ -286,6 +286,10 @@ ul {
     margin-left: 0rem !important;
 }
 
+.hbspt-form p {
+    max-width: 300px;
+}
+
 
 /* Lead */
 
