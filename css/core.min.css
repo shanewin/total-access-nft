@@ -10215,7 +10215,7 @@ body.boxed .grid-container.small-margins.full-width>.row>.column {
 
 .header .header-inner {
     width: 100%;
-    background-color: #232323
+    /*background-color: #232323*/
 }
 
 .header .header-inner>.nav-bar {
